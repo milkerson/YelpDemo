@@ -15,6 +15,7 @@ gem 'pg', group: :production
 gem 'carrierwave', github:'carrierwaveuploader/carrierwave'
 gem 'fog-aws'
 gem 'figaro', '~> 1.0.0'
+gem 'mini_magick'
 
 group :development, :test do 
 gem 'byebug' 

@@ -17,6 +17,7 @@ gem 'fog-aws'
 gem 'figaro', '~> 1.0.0'
 gem 'mini_magick'
 gem 'devise'
+gem 'searchkick'
 
 group :development, :test do 
 gem 'byebug' 
